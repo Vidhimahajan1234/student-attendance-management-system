@@ -18,8 +18,6 @@ void checkAttendance()
 void addStudent()
 {
     int i,num,add;
-    if(num<=0)
-        printf("enter atleast one student");
     if (indexNumber==0)
     {
         printf("Enter how many students you want to add: ");
